@@ -239,8 +239,6 @@ function openModal(icon, title, msg, callback) {
   document.getElementById('modal-title').textContent = title;
   document.getElementById('modal-msg').textContent = msg;
   modalCallback = callback;
-  var confirmBtn = document.getElementById('modal-confirm');
-  confirmBtn.style.display = callback ? 'inline-block' : 'none';
   document.getElementById('modal-overlay').classList.add('open');
 }
 function closeModal() {
