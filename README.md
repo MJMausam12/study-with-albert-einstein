@@ -25,8 +25,8 @@ A full-featured quiz website for job exam preparation with 13 subject categories
 
 | Admin | Password | Permissions |
 |-------|----------|-------------|
-| Admin 1 | `Mausam@9127` | Full access (add, delete, manage categories) |
-| Admin 2 | `Gogoi@7861005` | Add questions & scan text only |
+| Admin 1 | `*******| Full access (add, delete, manage categories) |
+| Admin 2 | `*****` | Add questions & scan text only |
 
 ---
 
